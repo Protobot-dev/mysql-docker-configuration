@@ -9,7 +9,7 @@ To get started simply run:
 
 after to create the docker image we will need to run a container with next command:
 
-`docker exec -it nombre_de_contenerdor_mysql mysql -u root -p`
+`docker exec -it nombre_de_contenedor_mysql mysql -u root -p`
 
 when we`re on the mysql console, we will write: 
 
